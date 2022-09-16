@@ -1,0 +1,18 @@
+
+\\azuretrainingkoinworxsa.file.core.windows.net\testfileshare
+
+
+
+\\azuretraining101sa.file.core.windows.net\testfileshare
+
+
+https://docs.microsoft.com/en-us/answers/questions/44315/i-have-been-trying-to-set-up-azure-file-share-on-m-1.html
+Install-ModuleAz
+
+Import-ModuleAz
+
+Connect-AzAccount 
+
+Set-ExecutionPolicy RemoteSigned
+
+Get-AzResourceGroup -Name "EngineerBlog--write ur resource group
